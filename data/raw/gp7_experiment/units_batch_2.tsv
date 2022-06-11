@@ -1,0 +1,5 @@
+sample	replicate	time	fq1	fq2
+pDG7_M	3	0	data/pDG7_3M_1.fastq.gz	data/pDG7_3M_1.fastq.gz
+pDG7	3	0	data/pDG7_3_1.fastq.gz	data/pDG7_3_2.fastq.gz
+pDG_M	3	0	data/pDG_3M_1.fastq.gz	data/pDG_3M_2.fastq.gz
+pDG	3	0	data/pDG_3_1.fastq.gz	data/pDG_3_2.fastq.gz

@@ -1,0 +1,13 @@
+sample	replicate	time	fq1	fq2
+B1	1	0	data/B1_1.fastq.gz	data/B1_2.fastq.gz
+B2	2	0	data/B2_1.fastq.gz	data/B2_2.fastq.gz
+B3	3	0	data/B3_1.fastq.gz	data/B3_2.fastq.gz
+G1	1	0	data/G1_1.fastq.gz	data/G1_2.fastq.gz
+G2	2	0	data/G2_1.fastq.gz	data/G2_2.fastq.gz
+G3	3	0	data/G3_1.fastq.gz	data/G3_2.fastq.gz
+B1M	1	0	data/B1M_1.fastq.gz	data/B1M_2.fastq.gz
+B2M	2	0	data/B2m_1.fastq.gz	data/B2M_2.fastq.gz
+B3M	3	0	data/B3M_1.fastq.gz	data/B3M_2.fastq.gz
+G1M	1	0	data/G1M_1.fastq.gz	data/G1M_2.fastq.gz
+G2M	2	0	data/G2M_1.fastq.gz	data/G2M_2.fastq.gz
+G3M	3	0	data/G3M_1.fastq.gz	data/G3M_2.fastq.gz
