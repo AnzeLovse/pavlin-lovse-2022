@@ -1,7 +1,7 @@
 sample	condition
-pDG_M	empty
-pDG7_M	p7
-pDG	control
-pDG7	untreated
-GIL01	gil_control
-GIL01_M	gil_treated
+pDG_M	pDG_M
+pDG7_M	pDG7_M
+pDG	pDG
+pDG7	pDG7
+GIL01	GIL01
+GIL01_M	GIL01_M
