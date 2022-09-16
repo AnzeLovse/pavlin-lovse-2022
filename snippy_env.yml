@@ -1,0 +1,52 @@
+name: snippy-clanek
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bc=1.07.1=h0d85af4_0
+  - bwa=0.7.17=h1f540d2_9
+  - bzip2=1.0.8=h0d85af4_4
+  - c-ares=1.18.1=h0d85af4_0
+  - ca-certificates=2022.6.15=h033912b_0
+  - freebayes=1.3.6=h1f566b5_1
+  - htslib=1.14=hefe9584_1
+  - krb5=1.19.3=hb98e516_0
+  - libcurl=7.83.1=h23f1065_0
+  - libcxx=14.0.6=hccf4f1f_0
+  - libdeflate=1.9=h0d85af4_0
+  - libedit=3.1.20191231=h0678c8f_2
+  - libev=4.33=haf1e3a3_1
+  - libffi=3.4.2=h0d85af4_5
+  - libgcc=4.8.5=1
+  - libnghttp2=1.47.0=h5aae05b_1
+  - libsqlite=3.39.3=ha978bb4_0
+  - libssh2=1.10.0=h47af595_3
+  - libzlib=1.2.12=hfe4f2af_2
+  - ncurses=6.3=h96cf925_1
+  - openjdk=17.0.3=hfa58983_1
+  - openssl=3.0.5=hb81d4ab_1
+  - parallel=20220722=h694c41f_0
+  - perl=5.22.0.1=0
+  - perl-bioperl=1.6.924=4
+  - perl-file-slurp=9999.19=0
+  - perl-list-moreutils=0.15=pl5.22.0_0
+  - perl-threaded=5.32.1=hdfd78af_1
+  - perl-time-piece=1.27=pl5.22.0_0
+  - perl-yaml=1.24=pl522_1
+  - pip=22.2.2=pyhd8ed1ab_0
+  - python=3.10.6=hc14f532_0_cpython
+  - readline=8.1.2=h3899abd_0
+  - samtools=1.15=hb35f05f_0
+  - setuptools=65.3.0=pyhd8ed1ab_1
+  - snippy=3.2=pl5.22.0_1
+  - snpeff=5.0=hdfd78af_1
+  - tabixpp=1.1.0=hd7fc3fd_8
+  - tk=8.6.12=h5dbffcc_0
+  - tzdata=2022c=h191b570_0
+  - vcflib=1.0.3=he901cdd_1
+  - vcftools=0.1.16=h87af4ef_5
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xz=5.2.6=h775f41a_0
+  - zlib=1.2.12=hfe4f2af_2
+prefix: /Users/admin/miniconda3/envs/snippy-clanek

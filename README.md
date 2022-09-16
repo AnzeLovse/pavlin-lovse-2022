@@ -5,6 +5,8 @@ Anže Lovše, 2022
 ## Project organisation
 
 ```
+├── renv.lock          <- Renv lockfile used for all R analyses.
+├── snippy_env.yml     <- Conda environment used for the WGS analysis.
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
@@ -14,4 +16,5 @@ Anže Lovše, 2022
 ├── analysis           <- Analysis scripts.
 │
 └── results            <- Generated analysis outputs.
+
 ```
